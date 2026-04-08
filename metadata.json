@@ -1,0 +1,5 @@
+{
+  "name": "Ebook Landing Page Generator",
+  "description": "A minimalist landing page that generates a random ebook theme, title, and cover on every load with a direct download link.",
+  "requestFramePermissions": []
+}
