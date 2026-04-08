@@ -66,7 +66,7 @@ const THEMES = [
 ];
 
 const FORMATS = ['PDF', 'EPUB', 'ZIP'];
-const SMARTLINK = 'YOUR_SMARTLINK_HERE';
+const SMARTLINK = 'https://acceptancesuicidegel.com/bn7gqsyptx?key=4abac9f116b492137f2b497500b2d9fa';
 
 // --- Helper Functions ---
 const getRandomItem = <T,>(arr: T[]): T => arr[Math.floor(Math.random() * arr.length)];
